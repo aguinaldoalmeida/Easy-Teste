@@ -1,3 +1,3 @@
 # Easy-Teste
-Programa escrito em C# asp.net - Bootstrap com GridView
-Um crud com duas etapas com 3 tabelas integradas
+Programa escrito em C# Asp.net - Bootstrap com GridView com SQL/Server
+Um crud fromulário com 4 páginas - Sendo uma para controle exclusivo ( Grid View )
